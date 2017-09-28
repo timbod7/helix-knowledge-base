@@ -12,5 +12,5 @@ Testing Image Link:
 
 Testing url link:
 
-\[\[Lena\|[https://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png](https://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png "Lena")
+[Lena](https://upload.wikimedia.org/wikipedia/en/2/24/Lenna.png)
 
