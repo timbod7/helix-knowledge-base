@@ -1,8 +1,4 @@
-# helix-knowledge-base
+# Helix Knowledge Base
 
-Helix Knowledge Base
-
-
-
-
+First cut of helix knowledge base test on gitbook.
 
