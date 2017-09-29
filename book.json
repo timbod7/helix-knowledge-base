@@ -1,3 +1,8 @@
 {
-  "plugins": ["comments"]
+  "plugins": ["comment"],
+  "pluginsConfig": {
+    "comment": {
+      "highlightCommented": true
+    }
+  }
 }
