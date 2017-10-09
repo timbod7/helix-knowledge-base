@@ -1,15 +1,8 @@
 # Introduction
 
-ADL (Algebraic Data Language) is a framework for building multi
-language systems. It consists of a domain specific language (DSL) for
-describing algebraic data types, code generators for several target
-languages, and runtimes for these languages. Language interoperability
-is ensured through a consistent json serialisation schema.
+ADL (Algebraic Data Language) is a framework for building multi language systems. It consists of a domain specific language (DSL) for describing algebraic data types, code generators for several target languages, and runtimes for these languages. Language interoperability is ensured through a consistent json serialisation schema.
 
-In addition to supporting several target languages, a general purpose
-"ast" backend is available. This produces a checked, machine readable
-syntax tree suitable for custom processing and code generation in any
-programming language.
+In addition to supporting several target languages, a general purpose "ast" backend is available. This produces a checked, machine readable syntax tree suitable for custom processing and code generation in any programming language.
 
 # Applications
 
